@@ -1,10 +1,10 @@
-8e68e06871f0e1913a44401cd68b5746 *DESCRIPTION
+b9abbcb3801e263ad6bebede2572fefa *DESCRIPTION
 079cb5032f99c86392a042081232e577 *NAMESPACE
 3731c2e8072c6d217929aebb613d0ffb *NEWS
 134216c5ab8144e7b5a72152eeac231e *R/crandatapkgs.R
-e848b4d8f976c15e66031226f3302a1d *README.md
+25ce7a7f9b079f86361b408bab440dc9 *README.md
 32b8f95e9da3671ecb6c1d03886f9f2d *inst/CITATION
-3db4f87b14803c85bf3ee3de1170834d *inst/packages/packages
+09ab7af38ba5d9533e139a46db85873a *inst/packages/packages
 caaef74a15525e4b86b1fd5831e250d8 *man/available_data.Rd
 a8fecd0715923eb2b03fa667d6c40cda *man/crandatapkgs-package.Rd
 b105a89ea700dc8e4b4b3d3596443367 *tests/test-all.R
